@@ -1,0 +1,5 @@
+test.html
+tests/output/
+node_modules/
+__pycache__/
+.DS_Store
